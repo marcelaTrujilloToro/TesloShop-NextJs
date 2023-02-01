@@ -37,7 +37,7 @@ const AddressPage = () => {
               label="País"
               value={1}
             >
-              <MenuItem value={1}>Costa Rica</MenuItem>
+              <MenuItem value={1}>Colombia</MenuItem>
               <MenuItem value={2}>Honduras</MenuItem>
               <MenuItem value={3}>El Salvador</MenuItem>
               <MenuItem value={4}>México</MenuItem>
