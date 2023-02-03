@@ -1,7 +1,7 @@
 // https://swr.vercel.app/docs/getting-started
 
 import useSWR, { SWRConfiguration } from 'swr';
-import { IProduct } from '../interfaces';
+import { IProduct } from '../interfaces/products';
 
 // const fetcher = (...args: [key: string]) => fetch(...args).then(res => res.json());
 
